@@ -48,4 +48,4 @@ Data Validation and Drop-down Lists
 3. Use the sheets as templates for your own projects and data analysis tasks.
 4. Experiment with different formulas and techniques to learn more.
 
-(View Project File](https://docs.google.com/spreadsheets/d/1GkskLcXNrqfcGRkT8pnKky326OYYG033KlQEqHFoV-w/edit?usp=sharing)
+[View Project File](https://docs.google.com/spreadsheets/d/1GkskLcXNrqfcGRkT8pnKky326OYYG033KlQEqHFoV-w/edit?usp=sharing)
